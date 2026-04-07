@@ -8,5 +8,5 @@
 Add:
 
 guacamole
-lemon
+lime
 salt
